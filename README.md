@@ -1,1 +1,2 @@
-# CppBuildScripts-master
+# CppBuildScripts
+C++ Build Scripts
